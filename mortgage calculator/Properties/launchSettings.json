@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mortgage calculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

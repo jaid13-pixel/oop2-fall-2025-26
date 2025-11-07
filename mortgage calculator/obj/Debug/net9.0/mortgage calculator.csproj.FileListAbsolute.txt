@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\bin\Debug\net9.0\mortgage calculator.exe
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\bin\Debug\net9.0\mortgage calculator.deps.json
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\bin\Debug\net9.0\mortgage calculator.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\bin\Debug\net9.0\mortgage calculator.dll
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\bin\Debug\net9.0\mortgage calculator.pdb
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.sourcelink.json
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.dll
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\refint\mortgage calculator.dll
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.pdb
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\mortgage calculator.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\developer\oop2-fall-2025-26\project\mortgage calculator\obj\Debug\net9.0\ref\mortgage calculator.dll
