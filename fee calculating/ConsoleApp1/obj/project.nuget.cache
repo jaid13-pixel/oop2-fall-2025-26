@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIAzwMOq1to=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\project\\final term\\fee calculating\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
